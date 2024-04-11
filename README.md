@@ -18,7 +18,11 @@ The plugin has been tested on QGIS versions 3.16 to 3.36.1 and work with these v
 
 **3 -** In the plugins menu choose **"Install from ZIP"** and locate the downloaded .zip file and install the plugin directly from the .zip file without unzipping.
 
+![BuildingCAD icon](https://kalundborg.maps.arcgis.com/sharing/rest/content/items/1ec91e39f91c44c79de57d5a6899f2a4/data "BuildingCAD QGIS plugin icon")
+
 **4 -** The plugin is now ready to use.
 
 ## How to use the plugin:
-**1 -** Open the plugin by clicking on the icon ![BuildingCAD icon](https://kalundborg.maps.arcgis.com/sharing/rest/content/items/58dac571dae0474092b1b91e807343b6/data "BuildingCAD QGIS plugin icon")
+**1 -** Open the plugin by clicking on the icon ![BuildingCAD icon](https://kalundborg.maps.arcgis.com/sharing/rest/content/items/58dac571dae0474092b1b91e807343b6/data "BuildingCAD QGIS plugin icon") or click on "Plugins" in the top menu and click on "BuildingCAD" in the dropdown.
+**NOTE - If you don't see neither the icon ![BuildingCAD icon](https://kalundborg.maps.arcgis.com/sharing/rest/content/items/58dac571dae0474092b1b91e807343b6/data "BuildingCAD QGIS plugin icon") or "BuildingCAD" in "Plugins" then open the plugins menu by clicking on "plugins" -> "Manage and Install Plugins..." from the top menu. **
+In the plugins menu click "Installed" and locate *** 

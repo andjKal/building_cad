@@ -42,6 +42,10 @@ class BuildingCadDialog(QDialog, FORM_CLASS):
     def __init__(self, iface, parent=None):
         super(BuildingCadDialog, self).__init__(parent)
         self.setupUi(self)
+
+        # Set the dialog window icon
+        icon_path = ':/plugins/terrain_analysis/icon.png'  # Resource path to the icon
+        self.setWindowIcon(QIcon(icon_path))
         
         # Setting the position of the dialog to not be in the middle of the screen
         self.move(100, 100)

@@ -28,7 +28,7 @@ import math
 from qgis.PyQt import uic
 from qgis.PyQt import QtWidgets
 from qgis.PyQt.QtWidgets import QDialog, QMessageBox
-from PyQt5.QtGui import QDoubleValidator, QIntValidator, QPen, QBrush
+from PyQt5.QtGui import QDoubleValidator, QIntValidator, QPen, QBrush, QIcon
 from PyQt5.QtCore import QVariant, Qt
 from qgis.core import QgsProject, QgsMapLayerType, QgsWkbTypes, QgsFeature, QgsGeometry, QgsPointXY, QgsVectorLayer, QgsPointLocator, QgsField
 from qgis.gui import QgsMapTool, QgsMapToolEmitPoint, QgsVertexMarker, QgsSnapIndicator, QgsRubberBand
